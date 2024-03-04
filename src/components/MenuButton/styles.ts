@@ -12,6 +12,7 @@ export const styles = StyleSheet.create({
     marginTop: 10,
   },
   icon: {
+    overflow: 'hidden',
     padding: 24,
     backgroundColor: theme.colors.gray[700],
     borderRadius: 22,
